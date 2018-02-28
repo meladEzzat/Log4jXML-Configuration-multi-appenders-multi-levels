@@ -1,0 +1,1 @@
+# Log4jXML-Configuration-multi-appenders-multi-levels
